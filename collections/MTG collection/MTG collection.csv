@@ -1,0 +1,326 @@
+Cardname;Times_owned;Colors;Price;Type_line
+Warden of the Chained;1;['G', 'R'];0.04;Creature — Minotaur Warrior
+Acolyte of Affliction;1;['B', 'G'];0.11;Creature — Human Cleric
+Hero of the Nyxborn;1;['R', 'W'];0.07;Enchantment Creature — Human Soldier
+Eutropia the Twice-Favored;1;['G', 'U'];0.08;Legendary Creature — Human Wizard
+Centaur Healer;1;['G', 'W'];0.01;Creature — Centaur Cleric
+Spontaneous Combustion;1;['B', 'R'];0.05;Instant
+Fires of Yavimaya;1;['G', 'R'];0.23;Enchantment
+Rushblade Commander;1;['B', 'R'];0.15;Creature — Azra Warrior
+Urborg Drake;2;['B', 'U'];0.02;Creature — Drake
+Rise to Glory;1;['B', 'W'];0.07;Sorcery
+Gallia of the Endless Dance;1;['G', 'R'];0.18;Legendary Creature — Satyr
+Marchesa's Smuggler;1;['R', 'U'];0.1;Creature — Human Rogue
+Selvala, Explorer Returned;1;['G', 'W'];0.61;Legendary Creature — Elf Scout
+Mortify;1;['B', 'W'];0.2;Instant
+Pitchburn Devils;3;['R'];0.01;Creature — Devil
+Power of Fire;1;['R'];0.02;Enchantment — Aura
+Trumpet Blast;2;['R'];0.02;Instant
+Barbed Shocker;1;['R'];0.09;Creature — Insect
+Torch Fiend;2;['R'];0.02;Creature — Devil
+Uncontrollable Anger;1;['R'];0.02;Enchantment — Aura
+Mana Geyser;3;['R'];0.21;Sorcery
+Skitter of Lizards;3;['R'];0.04;Creature — Lizard
+Shock;1;['R'];0.06;Instant
+Pathmaker Initiate;1;['R'];0.04;Creature — Human Wizard
+Lightning Talons;1;['R'];0.01;Enchantment — Aura
+Orcish Cannonade;3;['R'];0.02;Instant
+Lizard Warrior;3;['R'];0.01;Creature — Lizard Warrior
+Heckling Fiends;1;['R'];0.02;Creature — Devil
+Boldwyr Intimidator;1;['R'];0.14;Creature — Giant Warrior
+Volcanic Fallout;1;['R'];0.26;Instant
+Flowstone Blade;1;['R'];0.0;Enchantment — Aura
+Enraged Revolutionary;1;['R'];0.07;Creature — Human Warrior
+Brimstone Volley;1;['R'];0.06;Instant
+Vent Sentinel;2;['R'];0.09;Creature — Elemental
+Cinder Wall;2;['R'];0.07;Creature — Wall
+Chartooth Cougar;1;['R'];0.04;Creature — Cat Beast
+Grenzo's Cutthroat;1;['R'];0.01;Creature — Goblin Rogue
+Stadium Vendors;2;['R'];0.04;Creature — Goblin
+Dreamstalker Manticore;1;['R'];0.06;Enchantment Creature — Manticore
+Underworld Fires;1;['R'];0.05;Sorcery
+Careless Celebrant;1;['R'];0.07;Creature — Satyr Shaman
+Iroas's Blessing;1;['R'];0.03;Enchantment — Aura
+Satyr's Cunning;1;['R'];0.06;Sorcery
+Aspect of Manticore;1;['R'];0.02;Enchantment — Aura
+Stampede Rider;1;['R'];0.05;Creature — Satyr
+Infuriate;1;['R'];0.06;Instant
+Bull-Rush Bruiser;1;['R'];0.09;Creature — Minotaur Warrior
+Final Flare;2;['R'];0.03;Instant
+Underworld Rage-Hound;1;['R'];0.02;Creature — Elemental Hound
+Nyxborn Brute;3;['R'];0.03;Enchantment Creature — Cyclops
+Hero of the Games;1;['R'];0.02;Creature — Human Soldier
+Incendiary Oracle;1;['R'];0.02;Creature — Human Shaman
+Oread of Mountain's Blaze;1;['R'];0.02;Enchantment Creature — Nymph
+Wrap in Flames;5;['R'];0.01;Sorcery
+Blood Feud;1;['R'];0.06;Sorcery
+Escape Velocity;1;['R'];0.04;Enchantment — Aura
+Storm Herald;1;['R'];0.23;Creature — Human Shaman
+The Triumph of Anax;1;['R'];0.05;Enchantment — Saga
+Marchesa's Emissary;3;['U'];0.01;Creature — Human Rogue
+Riptide Turtle;1;['U'];0.05;Creature — Turtle
+Starlit Mantle;2;['U'];0.03;Enchantment — Aura
+One with the Stars;1;['U'];0.05;Enchantment — Aura
+Sweet Oblivion;1;['U'];0.03;Sorcery
+Sage of Mysteries;1;['U'];0.05;Creature — Human Wizard
+Deny the Divine;1;['U'];0.02;Instant
+Enclave Elite;1;['U'];0.02;Creature — Merfolk Soldier
+Dream Fracture;3;['U'];0.16;Instant
+Chain to Memory;2;['U'];0.06;Instant
+Saltwater Stalwart;1;['U'];0.08;Creature — Merfolk Warrior
+Out of Bounds;1;['U'];0.11;Instant
+Plated Seastrider;2;['U'];0.03;Creature — Beast
+Volition Reins;1;['U'];0.0;Enchantment — Aura
+Minamo Scrollkeeper;2;['U'];0.03;Creature — Human Wizard
+Crookclaw Transmuter;2;['U'];0.07;Creature — Bird Wizard
+Wind Dancer;2;['U'];0.0;Creature — Faerie
+Stasis Cell;2;['U'];0.01;Enchantment — Aura
+Screaming Seahawk;1;['U'];0.01;Creature — Bird
+Traveler's Cloak;1;['U'];0.12;Enchantment — Aura
+Reckless Scholar;4;['U'];0.02;Creature — Human Wizard
+Marchesa's Infiltrator;2;['U'];0.09;Creature — Human Rogue
+Grixis Illusionist;2;['U'];0.04;Creature — Human Wizard
+Opportunity;1;['U'];0.06;Instant
+Triton Waverider;1;['U'];0.02;Creature — Merfolk Wizard
+Omen of the Sea;2;['U'];0.1;Enchantment
+Witness of Tomorrows;1;['U'];0.02;Enchantment Creature — Sphinx
+Towering-Wave Mystic;2;['U'];0.03;Creature — Merfolk Wizard
+Elite Instructor;1;['U'];0.05;Creature — Human Wizard
+Whirlwind Denial;1;['U'];0.15;Instant
+Eidolon of Philosophy;1;['U'];0.03;Enchantment Creature — Spirit
+Brine Giant;3;['U'];0.03;Creature — Giant
+Mystic Repeal;1;['G'];0.09;Instant
+Skola Grovedancer;1;['G'];0.07;Enchantment Creature — Satyr Druid
+Nylea's Forerunner;2;['G'];0.06;Enchantment Creature — Beast
+Ilysian Caryatid;1;['G'];0.07;Creature — Plant
+Nexus Wardens;2;['G'];0.04;Creature — Satyr Archer
+Hyrax Tower Scout;1;['G'];0.04;Creature — Human Scout
+Nylea's Huntmaster;2;['G'];0.05;Creature — Centaur Shaman
+Hydra's Growth;1;['G'];0.12;Enchantment — Aura
+Loathsome Chimera;1;['G'];0.03;Creature — Chimera
+Voracious Typhon;2;['G'];0.05;Creature — Snake Beast
+Return to Nature;1;['G'];0.06;Instant
+Nyxborn Colossus;1;['G'];0.02;Enchantment Creature — Giant
+Klothys's Design;1;['G'];0.05;Sorcery
+Return to the Earth;1;['G'];0.06;Instant
+Lead the Stampede;1;['G'];0.14;Sorcery
+Wolfwillow Haven;1;['G'];0.13;Enchantment — Aura
+Charging Rhino;2;['G'];0.03;Creature — Rhino
+Nature's Claim;2;['G'];0.21;Instant
+Echoing Courage;1;['G'];0.04;Instant
+Wrap in Vigor;2;['G'];0.16;Instant
+Squirrel Nest;1;['G'];0.14;Enchantment — Aura
+Howling Wolf;3;['G'];0.1;Creature — Wolf
+Scaled Wurm;2;['G'];0.03;Creature — Wurm
+Cowl Prowler;1;['G'];0.01;Creature — Wurm
+Gnarlid Pack;1;['G'];0.05;Creature — Beast
+Provoke;3;['G'];0.0;Instant
+Hydra Omnivore;1;['G'];1.01;Creature — Hydra
+Plummet;1;['G'];0.02;Instant
+Hunger of the Howlpack;1;['G'];0.15;Instant
+Copperhorn Scout;1;['G'];0.11;Creature — Elf Scout
+Selvala's Enforcer;4;['G'];0.13;Creature — Elf Warrior
+Terastodon;1;['G'];0.49;Creature — Elephant
+Fog;3;['G'];0.0;Instant
+Fog;2;['G'];0.0;Instant
+Fog;1;['G'];0.0;Instant
+Carnage Wurm;3;['G'];0.11;Creature — Wurm
+Cudgel Troll;4;['G'];0.0;Creature — Troll
+Greater Basilisk;4;['G'];0.01;Creature — Basilisk
+Rites of Flourishing;1;['G'];0.0;Enchantment
+Garruk's Companion;4;['G'];0.14;Creature — Beast
+Rampant Growth;4;['G'];0.0;Sorcery
+Wolfir Avenger;1;['G'];0.0;Creature — Wolf Warrior
+Lure;4;['G'];0.0;Enchantment — Aura
+Sheltering Word;4;['G'];0.0;Instant
+Nightshade Peddler;4;['G'];0.0;Creature — Human Druid
+Nyx Herald;1;['G'];0.06;Enchantment Creature — Centaur Shaman
+Llanowar Elves;4;['G'];0.58;Creature — Elf Druid
+Warbriar Blessing;2;['G'];0.06;Enchantment — Aura
+Inspire Awe;1;['G'];0.04;Instant
+The Binding of the Titans;1;['G'];0.08;Enchantment — Saga
+Destiny Spinner;1;['G'];0.22;Enchantment Creature — Human
+Relic Crush;1;['G'];0.16;Instant
+Sakura-Tribe Elder;2;['G'];0.54;Creature — Snake Shaman
+Assault Griffin;1;['W'];0.0;Creature — Griffin
+Ardent Recruit;1;['W'];0.0;Creature — Human Soldier
+Kithkin Zephyrnaut;1;['W'];0.0;Creature — Kithkin Soldier
+Confessor;1;['W'];0.0;Creature — Human Cleric
+Daru Healer;1;['W'];0.0;Creature — Human Cleric
+Kithkin Spellduster;1;['W'];0.0;Creature — Kithkin Wizard
+Myrsmith;1;['W'];0.0;Creature — Human Artificer
+Changeling Sentinel;1;['W'];0.0;Creature — Shapeshifter
+Swell of Courage;2;['W'];0.0;Instant
+Foothill Guide;1;['W'];0.0;Creature — Human Cleric
+Ephara's Warden;1;['W'];0.0;Creature — Human Cleric
+Stonybrook Schoolmaster;1;['W'];0.0;Creature — Merfolk Wizard
+Peregrine Griffin;3;['W'];0.0;Creature — Griffin
+Commander's Authority;2;['W'];0.0;Enchantment — Aura
+Kithkin Zealot;1;['W'];0.0;Creature — Kithkin Cleric
+Triumphant Surge;2;['W'];0.02;Instant
+Shinewend;1;['W'];0.0;Creature — Elemental
+Inspirit;1;['W'];0.0;Instant
+Wayfaring Giant;1;['W'];0.08;Creature — Giant
+Taj-Nar Swordsmith;1;['W'];0.0;Creature — Cat Soldier
+Master's Call;3;['W'];0.0;Instant
+Burrenton Bombardier;1;['W'];0.0;Creature — Kithkin Soldier
+Sunmane Pegasus;1;['W'];0.02;Creature — Pegasus
+Leonin of the Lost Pride;1;['W'];0.04;Creature — Cat Warrior
+Banishment Decree;1;['W'];0.0;Instant
+Roc Egg;1;['W'];0.0;Creature — Bird Egg
+Guardians' Pledge;2;['W'];0.0;Instant
+Siege Mastodon;3;['W'];0.0;Creature — Elephant
+Frantic Salvage;2;['W'];0.0;Instant
+Veteran Swordsmith;1;['W'];0.0;Creature — Human Soldier
+Auramancer;1;['W'];0.0;Creature — Human Wizard
+Suture Spirit;1;['W'];0.0;Creature — Spirit
+Mighty Leap;1;['W'];0.03;Instant
+Pull from Eternity;1;['W'];0.0;Instant
+Kor Duelist;1;['W'];0.2;Creature — Kor Soldier
+Vanquish the Foul;1;['W'];0.0;Sorcery
+Stormfront Pegasus;7;['W'];0.0;Creature — Pegasus
+Loxodon Partisan;7;['W'];0.0;Creature — Elephant Soldier
+Angel's Mercy;5;['W'];0.07;Instant
+In Oketra's Name;1;['W'];0.0;Instant
+Leonin Skyhunter;4;['W'];0.11;Creature — Cat Knight
+Benalish Veteran;2;['W'];0.0;Creature — Human Soldier
+Griffin Sentinel;6;['W'];0.0;Creature — Griffin
+Tine Shrike;8;['W'];0.0;Creature — Bird
+Sunspire Griffin;1;['W'];0.02;Creature — Griffin
+Kemba's Legion;1;['W'];0.05;Creature — Cat Soldier
+Supply Caravan;1;['W'];0.0;Creature — Camel
+Moorland Inquisitor;1;['W'];0.0;Creature — Human Soldier
+Cenn's Tactician;1;['W'];0.0;Creature — Kithkin Soldier
+Divine Offering;2;['W'];0.0;Instant
+Demystify;3;['W'];0.03;Instant
+Azorius Justiciar;1;['W'];0.07;Creature — Human Wizard
+Wild Griffin;1;['W'];0.0;Creature — Griffin
+Arbalest Elite;5;['W'];0.0;Creature — Human Archer
+Griffin Rider;3;['W'];0.0;Creature — Human Knight
+Alabaster Mage;3;['W'];0.0;Creature — Human Wizard
+Celestial Purge;1;['W'];0.0;Instant
+Battlewise Valor;1;['W'];0.0;Instant
+Stonehorn Dignitary;5;['W'];0.0;Creature — Rhino Soldier
+Raptor Companion;1;['W'];0.01;Creature — Dinosaur
+Sentinel's Eyes;2;['W'];0.07;Enchantment — Aura
+Omen of the Sun;2;['W'];0.05;Enchantment
+Nyxborn Courser;3;['W'];0.02;Enchantment Creature — Centaur Scout
+Archon of Falling Stars;1;['W'];0.06;Creature — Archon
+Flicker of Fate;2;['W'];0.06;Instant
+Hero of the Pride;1;['W'];0.04;Creature — Cat Soldier
+Heliod's Pilgrim;1;['W'];0.07;Creature — Human Cleric
+Rumbling Sentry;1;['W'];0.03;Creature — Giant
+Karametra's Blessing;1;['W'];0.07;Instant
+Indomitable Will;1;['W'];0.03;Enchantment — Aura
+Rousing of Souls;2;['W'];0.06;Sorcery
+Swords to Plowshares;1;['W'];1.12;Instant
+Pillarfield Ox;2;['W'];0.01;Creature — Ox
+Doomed Traveler;1;['W'];0.07;Creature — Human Soldier
+Ajani's Sunstriker;1;['W'];0.13;Creature — Cat Cleric
+Noble Templar;2;['W'];0.02;Creature — Human Cleric Soldier
+Moment of Heroism;1;['W'];0.05;Instant
+Tandem Tactics;1;['W'];0.01;Instant
+Dawn Evangel;1;['W'];0.06;Enchantment Creature — Human Cleric
+Glimmerpoint Stag;1;['W'];0.07;Creature — Elk
+Stave Off;2;['W'];0.06;Instant
+Pride Guardian;1;['W'];0.09;Creature — Cat Monk
+Intangible Virtue;3;['W'];0.11;Enchantment
+Council's Judgment;1;['W'];11.71;Sorcery
+Brago's Representative;3;['W'];0.17;Creature — Human Advisor
+Valor Made Real;2;['W'];0.05;Instant
+Apex Hawks;1;['W'];0.01;Creature — Bird
+Wakestone Gargoyle;2;['W'];0.11;Creature — Gargoyle
+Kor Chant;2;['W'];0.0;Instant
+Silverchase Fox;1;['W'];0.08;Creature — Fox
+Guardian Zendikon;1;['W'];0.04;Enchantment — Aura
+Together Forever;1;['W'];0.32;Enchantment
+Zombie Goliath;1;['B'];0.06;Creature — Zombie Giant
+Necromantic Thirst;4;['B'];0.02;Enchantment — Aura
+Tyrant's Choice;3;['B'];0.0;Sorcery
+Infectious Horror;2;['B'];0.04;Creature — Zombie Horror
+Syphon Soul;3;['B'];0.02;Sorcery
+Painful Lesson;1;['B'];0.04;Sorcery
+Screeching Buzzard;1;['B'];0.01;Creature — Bird
+Sickle Dancer;1;['B'];0.02;Creature — Human Warrior
+Stronghold Discipline;1;['B'];0.02;Sorcery
+Mire's Grasp;2;['B'];0.05;Enchantment — Aura
+Blight-Breath Catoblepas;1;['B'];0.04;Creature — Beast
+Aspect of Lamprey;3;['B'];0.07;Enchantment — Aura
+Discordant Piper;1;['B'];0.04;Creature — Zombie Satyr
+Pharika's Libation;2;['B'];0.07;Instant
+Fruit of Tizerus;1;['B'];0.04;Sorcery
+Quag Vampires;1;['B'];0.15;Creature — Vampire Rogue
+Scavenging Harpy;1;['B'];0.02;Creature — Harpy
+Unhallowed Pact;3;['B'];0.14;Enchantment — Aura
+Assassinate;5;['B'];0.02;Sorcery
+Omen of the Dead;1;['B'];0.06;Enchantment
+Lampad of Death's Vigil;1;['B'];0.06;Enchantment Creature — Nymph
+Rage-Scarred Berserker;1;['B'];0.03;Creature — Minotaur Berserker
+Nyxborn Marauder;2;['B'];0.02;Enchantment Creature — Minotaur
+Cling to Dust;1;['B'];0.08;Instant
+Soulreaper of Mogis;1;['B'];0.01;Enchantment Creature — Minotaur Shaman
+Tar Fiend;1;['B'];0.0;Creature — Elemental
+Pulling Teeth;1;['B'];0.0;Sorcery
+Chancellor of the Dross;1;['B'];0.49;Creature — Vampire
+Typhoid Rats;1;['B'];0.11;Creature — Rat
+Eat to Extinction;1;['B'];0.63;Instant
+Liliana's Specter;7;['B'];0.13;Creature — Specter
+Tendrils of Despair;3;['B'];0.11;Sorcery
+Chittering Rats;2;['B'];0.0;Creature — Rat
+Distress;3;['B'];0.0;Sorcery
+Duty-Bound Dead;1;['B'];0.0;Creature — Skeleton
+Disfigure;1;['B'];0.0;Instant
+Appetite for Brains;1;['B'];0.0;Sorcery
+Horrifying Revelation;3;['B'];0.0;Sorcery
+Mire Blight;1;['B'];0.04;Enchantment — Aura
+Quest for the Gravelord;2;['B'];0.09;Enchantment
+Enemy of Enlightenment;1;['B'];0.05;Enchantment Creature — Demon
+Gray Merchant of Asphodel;1;['B'];0.23;Creature — Zombie
+Nested Ghoul;1;['B'];0.0;Creature — Zombie Warrior
+Liliana's Caress;1;['B'];0.0;Enchantment
+Stronghold Rats;2;['B'];0.0;Creature — Rat
+Sangromancer;1;['B'];0.0;Creature — Vampire Shaman
+Guul Draz Specter;1;['B'];0.0;Creature — Specter
+Shimian Specter;1;['B'];0.0;Creature — Specter
+Army of the Damned;2;['B'];0.84;Sorcery
+Ashen-Skin Zubera;1;['B'];0.0;Creature — Zubera Spirit
+Persecute;1;['B'];0.55;Sorcery
+Altar's Reap;2;['B'];0.0;Instant
+Twisted Abomination;2;['B'];0.08;Creature — Zombie Mutant
+Ill-Gotten Gains;1;['B'];0.29;Sorcery
+Wings of Hubris;1;['X'];0.04;Artifact — Equipment
+Bronze Sword;1;['X'];0.03;Artifact — Equipment
+Thaumaturge's Familiar;1;['X'];0.04;Artifact Creature — Bird
+Consulate Skygate;1;['X'];0.07;Artifact Creature — Wall
+Whispergear Sneak;2;['X'];0.1;Artifact Creature — Construct
+Eager Construct;1;['X'];0.03;Artifact Creature — Construct
+Spectral Searchlight;1;['X'];0.14;Artifact
+Viridian Claw;1;['X'];0.0;Artifact — Equipment
+Phyrexian Digester;2;['X'];0.0;Artifact Creature — Construct
+Lurking Automaton;1;['X'];0.1;Artifact Creature — Construct
+Lore Seeker;1;['X'];0.16;Artifact Creature — Construct
+Peace Strider;2;['X'];0.04;Artifact Creature — Construct
+Rusted Slasher;5;['X'];0.0;Artifact Creature — Horror
+Spin Engine;4;['X'];0.0;Artifact Creature — Construct
+Flayer Husk;1;['X'];0.0;Artifact — Equipment
+Bladed Sentinel;5;['X'];0.0;Artifact Creature — Construct
+Greatsword;2;['X'];0.0;Artifact — Equipment
+Shriekhorn;3;['X'];0.0;Artifact
+Copper Carapace;4;['X'];0.0;Artifact — Equipment
+Jawbone Skulkin;3;['X'];0.0;Artifact Creature — Scarecrow
+Anvilwrought Raptor;1;['X'];0.0;Artifact Creature — Bird
+Training Drone;2;['X'];0.0;Artifact Creature — Drone
+Skinwing;1;['X'];0.07;Artifact — Equipment
+Dross Ripper;7;['X'];0.0;Artifact Creature — Hound
+Razorfield Rhino;4;['X'];0.0;Artifact Creature — Rhino
+Fang Skulkin;1;['X'];0.0;Artifact Creature — Scarecrow
+Enatu Golem;1;['X'];0.0;Artifact Creature — Golem
+Gust-Skimmer;4;['X'];0.0;Artifact Creature — Insect
+Oxidda Golem;2;['X'];0.0;Artifact Creature — Golem
+Shell Skulkin;3;['X'];0.0;Artifact Creature — Scarecrow
+Antler Skulkin;1;['X'];0.0;Artifact Creature — Scarecrow
+Tangle Hulk;2;['X'];0.0;Artifact Creature — Beast
+Hoof Skulkin;1;['X'];0.0;Artifact Creature — Scarecrow
+Shimmering Grotto;1;['X'];0.11;Land
+Unknown Shores;2;['X'];0.03;Land
+Paliano, the High City;1;['X'];0.22;Legendary Land
